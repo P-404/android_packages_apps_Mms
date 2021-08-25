@@ -47,7 +47,6 @@ android_app {
 
     privileged: true,
 
-    overrides: ["messaging"],
     system_ext_specific: true,
 }
 
